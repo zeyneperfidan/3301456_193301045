@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "366675619720",
+    "project_id": "otel-rezervasyon-6d8f4",
+    "storage_bucket": "otel-rezervasyon-6d8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366675619720:android:6f247d1e8b26915ba9543d",
+        "android_client_info": {
+          "package_name": "com.sangvaleap.hotel_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366675619720-g0luug7fdijjcubjicd8pijsojd9lm8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFd9VYqzTGkmfULCA_EDoG3Ns6kVBLFM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366675619720-g0luug7fdijjcubjicd8pijsojd9lm8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
