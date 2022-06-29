@@ -26,8 +26,7 @@ dependencies:
   animated_splash_screen: ^1.2.0
   open_file: ^3.2.1
   sqflite: ^2.0.2
-  location: ^4.4.0
-  google_maps_flutter: ^2.0.9
+
 
 dev_dependencies:
   flutter_test:
